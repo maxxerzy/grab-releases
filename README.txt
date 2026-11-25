@@ -24,6 +24,15 @@ INSTALLATION
    oder eine Datei oder einen Ordner auf das Symbol ziehen. macOS fragt, ob grab!
    Mitteilungen zeigen darf — so meldet es fertige Läufe.
 
+STATT DES IMAGES: DAS INSTALLATIONSPROGRAMM
+Neben dem Image (.dmg) gibt es grab! als Installationsprogramm (.pkg). Es zeigt zuerst die
+Bedingungen, legt grab! nach „Programme“ und startet es. macOS blockiert auch das
+Installationsprogramm beim ersten Öffnen: mit „Fertig“ schließen, dann wie in Schritt 3
+„Dennoch öffnen“ — dort steht dann der Name der .pkg-Datei. Es fragt nach dem Passwort
+eines Administrators. Beide Wege installieren dasselbe grab!. Der Unterschied: aus dem
+Image gezogen, setzt grab! Updates still beim Beenden ein; nach dem Installationsprogramm
+fragt es dafür nach dem Passwort (Rechtsklick auf das Symbol > „Auf grab! … aktualisieren“).
+
 WAS GEHT OHNE WEITERES
 Webseiten, Videos und Ton, Bilder, PDFs, Archive, Transkription auf dem
 Mac, Suche über alles Geholte, Konvertieren von Video, Ton und Bild. ffmpeg bringt
@@ -73,6 +82,14 @@ INSTALL
    and no window. Click the icon to open the field: paste an address and fetch it, or
    drag a file or folder onto the icon. macOS asks whether grab! may show
    notifications — that is how it reports finished runs.
+
+INSTEAD OF THE DISK IMAGE: THE INSTALLER
+Next to the disk image (.dmg) there is grab! as an installer (.pkg). It first shows the
+terms, puts grab! into Applications and starts it. macOS blocks the installer too the first
+time you open it: click "Done", then "Open Anyway" as in step 3 — it then shows the name of
+the .pkg file. It asks for an administrator's password. Both ways install the same grab!.
+The difference: dragged from the disk image, grab! installs updates quietly when it quits;
+after the installer it asks for the password (right-click the icon > "Auf grab! … aktualisieren").
 
 WORKS OUT OF THE BOX
 Web pages, video and audio, images, PDFs, archives, transcription on
