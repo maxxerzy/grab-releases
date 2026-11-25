@@ -6,6 +6,21 @@
     <description>Updates für grab!</description>
     <language>de</language>
     <item>
+      <title>grab! 1.0.1</title>
+      <pubDate>Wed, 25 Nov 2026 23:13:53 +0100</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>grab! 1.0.1</h3>
+<ul>
+<li>Neu: grab! gibt es auch als Installationsprogramm (`grab-1.0.1.pkg`). Es zeigt zuerst die Bedingungen, legt grab! nach „Programme“ und startet es. Das Image zum Ziehen bleibt.</li>
+<li>Behoben: Bildergalerien und Social-Media-Beiträge (Instagram, Reddit, X und andere über gallery-dl) ließen sich auf anderen Macs als meinem nicht holen.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/grab-releases/releases/download/v1.0.1/grab-1.0.1.dmg" sparkle:edSignature="XCbBIQyjK2x0kw96Kx/8pjGrJnTcoN5xo0ML//skX9kUYojq5oXEXIlGdaSAJYi54VBX4kUI1hKMIAjkGaptDg==" length="324560970" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>grab! 1.0.0</title>
       <pubDate>Wed, 25 Nov 2026 21:31:18 +0100</pubDate>
       <sparkle:version>3</sparkle:version>
