@@ -82,7 +82,7 @@ grab! ist kein Produkt von Apple Inc. und steht in keiner Verbindung zu Apple, z
 - `~/.cache/huggingface` (die Whisper-Modelle; nur, wenn kein anderes Programm sie nutzt)
 - `~/.cache/yt-dlp` (nur, wenn du yt-dlp nicht auch selbst benutzt)
 
-Entferne grab! danach in den Systemeinstellungen unter »Anmeldeobjekte« und die Erweiterung in deinem Browser.
+Entferne grab! danach in den Systemeinstellungen unter »Anmeldeobjekte« und die Erweiterung in deinem Browser. Hast du grab! mit dem Installationsprogramm (.pkg) installiert, führt macOS darüber einen Vermerk ohne persönliche Daten; `sudo pkgutil --forget de.local.grab` im Terminal entfernt ihn.
 
 **3.11 Deine Rechte.** Nach der DSGVO hast du das Recht auf:
 
@@ -183,7 +183,7 @@ grab! is not a product of Apple Inc. and is not affiliated with Apple, with Anth
 - `~/.cache/huggingface` (the Whisper models; only if no other program uses them)
 - `~/.cache/yt-dlp` (only if you do not use yt-dlp yourself)
 
-Then remove grab! under "Login Items" in System Settings and the extension in your browser.
+Then remove grab! under "Login Items" in System Settings and the extension in your browser. If you installed grab! with the installer (.pkg), macOS keeps a receipt of that without personal data; `sudo pkgutil --forget de.local.grab` in Terminal removes it.
 
 **3.11 Your rights.** Under the GDPR you have the right to:
 
