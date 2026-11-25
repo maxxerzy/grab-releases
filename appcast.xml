@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>grab!</title>
+    <link>https://github.com/maxxerzy/grab-releases</link>
+    <description>Updates für grab!</description>
+    <language>de</language>
+    <item>
+      <title>grab! 1.0.0</title>
+      <pubDate>Wed, 25 Nov 2026 21:31:18 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>grab! 1.0.0</h3>
+<ul>
+<li>Die erste Fassung zum Weitergeben. grab! sitzt oben rechts in der Menüleiste: Adresse einfügen und holen, oder eine Datei oder einen Ordner auf das Symbol ziehen.</li>
+<li>Holt Webseiten, Videos, Ton, Bilder, PDFs und Archive, schreibt Ton auf dem Mac mit und macht alles Geholte durchsuchbar.</li>
+<li>Konvertiert Video, Ton und Bild. ffmpeg bringt grab! selbst mit.</li>
+<li>Updates holt grab! von selbst und setzt sie beim nächsten Beenden ein (Einstellungen › Über).</li>
+<li>Datenschutz &amp; Bedingungen stehen unter Einstellungen › Über.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/grab-releases/releases/download/v1.0.0/grab-1.0.0.dmg" sparkle:edSignature="OBFQJaINkj4K8MOR///GKci6cVdrBNnh2PW2J0PtKGhQydxCdTfMhmngIiIGVGc8FwJp8JISfC5/S3l5IDfpAg==" length="324173624" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
