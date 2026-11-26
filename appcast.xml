@@ -14,7 +14,6 @@
       <description><![CDATA[
 <h3>grab! 1.0.1</h3>
 <ul>
-<li>Neu: grab! gibt es auch als Installationsprogramm (`grab-1.0.1.pkg`). Es zeigt zuerst die Bedingungen, legt grab! nach „Programme“ und startet es. Das Image zum Ziehen bleibt.</li>
 <li>Behoben: Bildergalerien und Social-Media-Beiträge (Instagram, Reddit, X und andere über gallery-dl) ließen sich auf anderen Macs als meinem nicht holen.</li>
 </ul>
       ]]></description>
